@@ -66,7 +66,7 @@ Original file is located at
 # loader = PyPDFDirectoryLoader("data")
 
 # importing all the required Libraries
-from ‎PyPDF2 import PdfReader
+from PyPDF2 import PdfReader
 from langchain.chains.question_answering import load_qa_chain
 from langchain.prompts import PromptTemplate
 from langchain.text_splitter import RecursiveCharacterTextSplitter
