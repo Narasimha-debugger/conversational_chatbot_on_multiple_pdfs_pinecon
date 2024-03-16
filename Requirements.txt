@@ -1,6 +1,6 @@
 langchain
 streamlit
-pypdf
+‎PyPDF2
 sentence-transformers==2.2.2
 pinecone-client==2.2.4
 unstructured
